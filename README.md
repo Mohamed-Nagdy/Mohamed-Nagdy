@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-nagdy" alt="mohamed-nagdy" /></a> </p>
 
-- 🌱 I’m currently learning **Swift , Kortlin , Node JS**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter , Swift , Kortlin , Node JS**
 
 - 📫 How to reach me **mohamednagdy257@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LI1lwxx8ZQE7NTrfEAVsCG1xh8LaVBVe/view?usp=sharing](https://drive.google.com/file/d/1LI1lwxx8ZQE7NTrfEAVsCG1xh8LaVBVe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cMULEa-in5872uzjoNnR3fpxxhmRJEG6/view?usp=share_link](https://drive.google.com/file/d/1cMULEa-in5872uzjoNnR3fpxxhmRJEG6/view?usp=share_link)
 
 - ⚡ Fun fact **I’m Not Stoppable**
 

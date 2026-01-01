@@ -1,31 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdelbasit</h1>
-<h3 align="center">Computer Engineer And Mobile Applications Developer Using Flutter</h3>
+<h1 align="center">Mohamed Abdelbasit</h1>
+<h3 align="center">Computer Engineer • Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-nagdy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-nagdy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-nagdy" alt="mohamed-nagdy" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **Flutter , Swift , Kortlin , Node JS**
-
-- 📫 How to reach me **mohamednagdy257@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cMULEa-in5872uzjoNnR3fpxxhmRJEG6/view?usp=share_link](https://drive.google.com/file/d/1cMULEa-in5872uzjoNnR3fpxxhmRJEG6/view?usp=share_link)
-
-- ⚡ Fun fact **I’m Not Stoppable**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12131813/mohamed-nagdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12131813/mohamed-nagdy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mohamednagdy257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohamednagdy257" height="30" width="40" /></a>
+<p align="center">
+Specialized in building high-performance mobile applications using Flutter, with hands-on experience in native iOS (Swift) and Android (Kotlin), as well as backend development using Node.js.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-nagdy&show_icons=true&locale=en&layout=compact" alt="mohamed-nagdy" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-nagdy&show_icons=true&locale=en" alt="mohamed-nagdy" /></p>
+- Mobile Application Developer with strong focus on **Flutter**
+- Experience with **iOS (Swift)** and **Android (Kotlin)**
+- Backend experience using **Node.js**, **Express**, and RESTful APIs
+- Familiar with real-time systems, Firebase services, and scalable architectures
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-nagdy&" alt="mohamed-nagdy" /></p>
+---
+
+### Tech Stack
+
+**Mobile Development**
+- Flutter (Dart)
+- Swift (iOS)
+- Kotlin (Android)
+
+**Backend & APIs**
+- Node.js
+- Express.js
+- Firebase
+- REST APIs
+
+**Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+**Tools & Platforms**
+- Git & GitHub
+- Postman
+- Firebase Console
+
+---
+
+### GitHub Stats
+
+- Active contributor with consistent commits across multiple repositories
+- Experience working on production-ready mobile applications
+- Focus on clean architecture, performance, and maintainability
+- Comfortable working on both individual and team-based projects
+
+---
+
+### Connect With Me
+
+- **Email:** mohamednagdy257@gmail.com  
+- **Resume:**  
+  https://drive.google.com/file/d/1cMULEa-in5872uzjoNnR3fpxxhmRJEG6/view  
+- **Stack Overflow:**  
+  https://stackoverflow.com/users/12131813/mohamed-nagdy  
+- **HackerRank:**  
+  https://www.hackerrank.com/mohamednagdy257  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-nagdy&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
